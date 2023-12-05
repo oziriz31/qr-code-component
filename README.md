@@ -5,10 +5,11 @@
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
+To relax with some Front-End stuff, I integrated a simple mockup in pure HTML/CSS
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+Big thanks to [Frontend Mentor](https://www.frontendmentor.io) challenges who get me improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+**To do this challenge, i need a basic understanding of HTML and CSS.**
 
 ## The challenge
 
